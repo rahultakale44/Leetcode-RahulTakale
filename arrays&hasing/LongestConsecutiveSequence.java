@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Main {
+public class LongestConsecutiveSequence {
     public static int longestConsecutive(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
 
