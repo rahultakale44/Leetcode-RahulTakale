@@ -1,7 +1,7 @@
 # My LeetCode DSA Journey 
 
 Welcome to my LeetCode practice repository.  
-This repo is dedicated to my **500 Problems DSA Mission**, where I am solving LeetCode problems topic-wise to build strong problem-solving skills for coding interviews, placements, and long-term software engineering growth.
+This repo is dedicated to **solve Problems on DSA**, where I am solving LeetCode problems topic-wise to build strong problem-solving skills for coding interviews, placements, and long-term software engineering growth.
 
 ---
 
