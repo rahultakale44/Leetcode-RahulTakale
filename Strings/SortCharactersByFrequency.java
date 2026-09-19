@@ -37,4 +37,4 @@ public class SortCharactersByFrequency {
         System.out.println(frequencySort("cccaaa")); // cccaaa or aaaccc
         System.out.println(frequencySort("Aabb"));   // bbAa or bbaA
     }
-}
+} 
